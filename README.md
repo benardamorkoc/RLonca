@@ -5,6 +5,12 @@
 
 ## :framed_picture: Screenshots
 So what does RLonca look like?<br>
+|                 Rainbow Lonca Name (1.16+)                  |            Rainbow Lonca Name (Under 1.16)             |
+| :-------------------------------------------: | :--------------------------------------: |
+| ![](https://raw.githubusercontent.com/benardamorkoc/RLonca/main/images/rainbowLoncaName-1.16%2B.gif) | ![](https://raw.githubusercontent.com/benardamorkoc/RLonca/main/images/rainbowLoncaName-1.16%2B.gif) |
+
+
+
 |                 Cape State One                  |            Cape State Two             |
 | :-------------------------------------------: | :--------------------------------------: |
-| ![](https://raw.githubusercontent.com/benardamorkoc/RLonca/main/images/capeStateOne.png?token=GHSAT0AAAAAACEN2BAUZCQ75DXUFZX3T6FSZE3SYJQ) | ![](https://raw.githubusercontent.com/benardamorkoc/RLonca/main/images/capeStateTwo.png?token=GHSAT0AAAAAACEN2BAUW3Y6Q3SCFA2X4CSAZE3SYFA) |
+| ![](https://raw.githubusercontent.com/benardamorkoc/RLonca/main/images/capeStateOne.png) | ![](https://raw.githubusercontent.com/benardamorkoc/RLonca/main/images/capeStateTwo.png) |
